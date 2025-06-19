@@ -1,5 +1,7 @@
-# Welcome to my repository —
-
-### *a sandbox for code and creativity*
-
-<span style="font-weight: 600; color: #16a085;">– marcos!</span>
+<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50; font-style: italic; text-align: left;">
+  welcome to my repository —<br/>
+  <span style="color: #16a085;">a sandbox for code and creativity!</span>  
+</h1>
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50; margin-top: -1rem; text-align: left;">
+  – marcos
+</p>
