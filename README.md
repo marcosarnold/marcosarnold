@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50; text-align: left;">
-  <em>hi! it's me, marcos! <br/>
+  <em>hi!👋 it's me, marcos! <br/>
   welcome to my repository —</em><br/>
   <style="color: #16a085;">a sandbox for my code and creativity! 
 </h1>
