@@ -1,8 +1,7 @@
 <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50; text-align: left;">
   👋 hi! it's me, marcos!<br/>
-  <span style="color: #16a085; font-style: italic;">Welcome to my sandbox of code and creativity!</span>
+  <em style="color: #16a085;">welcome to my sandbox of code and creativity!</em>
 </h1>
-
 
 I am a third-year **Computer Science** and **Sociology** student at Colorado College, working at the intersection of technology, culture, and society. I am passionate about **merging technology with social change**, using code, media, and culture as tools for empowerment and community-building.
 
