@@ -1,6 +1,6 @@
 <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2c3e50; text-align: left;">
   👋 hi! it's me, marcos!<br/>
-  <span style="color: #16a085;">welcome to my sandbox of code and creativity!</span>
+  <span style="color: #16a085; font-style: italic;">Welcome to my sandbox of code and creativity!</span>
 </h1>
 
 
